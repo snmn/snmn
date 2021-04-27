@@ -9,6 +9,5 @@
 
 <h4> <a href="https://season.info.np">Socials</a> â€¢ <a href="https://season.info.np">Website</a> â€¢ <a href="https://season.info.np">Blog</a> â€¢ <a href="https://season.info.np">Business Card</a> </h4>
 
-<a href="https://season.info.np"><img src="images/rsz 300w asset_1.png" width="100"></a>
 
 
