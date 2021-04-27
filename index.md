@@ -1,15 +1,14 @@
-  <!-- Hi there! Feel free to make this your own but don't use my data -->
+
   
 <div align="center">
-  <a href="https://stephenajulu.com"><img src="images/stephenajulu header 2.png" alt="Ajulu's Header"></a>
+  <a href="https://season.info.np"><img src="images/stephenajulu header 2.png" alt="Snmn's Header"></a>
 
   <br>
   
-<h3>Hi there! 👋🤓<br>I'm Stephen Ajulu<br>an I.T Consultant, Web Developer, <br>Entrepreneur, Designer, <br>Creator and Cybsecurity Strategist</h3>
+<h3>Hi there! ðŸ‘‹ðŸ¤“<br>I'm Er. Season Maharjan<br>Mobile Application Developer, Engineer, <br>Entrepreneur, Consultant, <br>Strategist</h3>
 
-<h4> <a href="https://links.stephenajulu.com">Socials</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://ajulusthoughts.stephenajulu.com">Blog</a> • <a href="https://stephenajuluscard.carrd.co/">Business Card</a> </h4>
+<h4> <a href="https://season.info.np">Socials</a> â€¢ <a href="https://season.info.np">Website</a> â€¢ <a href="https://season.info.np">Blog</a> â€¢ <a href="https://season.info.np">Business Card</a> </h4>
 
-<a href="https://stephenajulu.com"><img src="images/rsz 300w asset_1.png" width="100"></a>
-
+<a href="https://season.info.np"><img src="images/rsz 300w asset_1.png" width="100"></a>
 
 
