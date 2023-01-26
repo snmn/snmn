@@ -32,10 +32,12 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://developer.android.com/images/home/billboard-bg.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://www.eclipse.org/downloads/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" width="40" height="40"/> </a>
+   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="eclipse" width="40" height="40"/> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snmn&show_icons=true&locale=en&layout=compact" alt="snmn" /></p>
   
