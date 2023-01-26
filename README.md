@@ -24,10 +24,6 @@
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
     <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1MmB8?ver=6c43g" alt="eclipse" width="40" height="40"/> </a>
   
-  
-      <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png" alt="eclipse" width="40" height="40"/> </a>
-  
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/100px-The_C_Programming_Language_logo.svg.png"/> </a>
   
