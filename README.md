@@ -25,7 +25,7 @@
     <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1MmB8?ver=6c43g" alt="eclipse" width="40" height="40"/> </a>
   
    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/100px-The_C_Programming_Language_logo.svg.png"/> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/40px-The_C_Programming_Language_logo.svg.png"/> </a>
   
    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="eclipse" width="40" height="40"/> </a>
