@@ -51,12 +51,12 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snmn&show_icons=true&locale=en&layout=compact" alt="snmn" /></p>
  <a href="https://cloud.appwrite.io/card/64646dca25afbfd172a0">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64646dca25afbfd172a0" alt="Appwrite Cloud Card" />
 </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snmn&show_icons=true&locale=en&layout=compact" alt="snmn" /></p>
-
 
 
 
